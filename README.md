@@ -1,25 +1,82 @@
-# 💫 About Me:
-I’m a passionate developer who loves turning ideas into real, practical solutions. I enjoy experimenting with new technologies, pushing myself to learn deeper, and constantly improving my skills. GitHub is my space to build, explore, and organize projects across AI, web development, and automation. I thrive on challenges, enjoy solving real problems through technology, and stay focused on growing every day as a creator, innovator, and technologist.<br><br>Slightly Stronger & More Impactful Version (if you want extra punch)<br><br>I’m a driven developer who loves building practical, impactful solutions and continuously pushing myself to learn and evolve. I actively explore AI, web development, and automation, using GitHub as a space to experiment, create, and refine my ideas. I enjoy tackling challenges, turning concepts into working products, and constantly leveling up my skills as a developer and technologist.
+<!-- ====================== CUSTOM AI FUTURISTIC WAVE BANNER ====================== -->
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text=GURURAJ%20H%20%E2%80%94%20AIML%20Engineer%20%26%20Tech%20Innovator&width=1200&height=300" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurru-murthyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gururajh38@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururaj-h-9597b2313/)
+<!-- Alternate Custom Banner -->
+<p align="center">
+  <svg width="100%" height="250" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#4ECDC4"/>
+        <stop offset="50%" stop-color="#556DFF"/>
+        <stop offset="100%" stop-color="#FF6B6B"/>
+      </linearGradient>
 
+      <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#ffffff88"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </radialGradient>
+    </defs>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guru-murtthy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=guru-murtthy&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guru-murtthy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+    <rect width="1200" height="300" fill="url(#grad)" rx="20"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=guru-murtthy&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+    <!-- Gradient Orbs -->
+    <circle cx="250" cy="80" r="90" fill="url(#orb)"/>
+    <circle cx="850" cy="180" r="120" fill="url(#orb)"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guru-murtthy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle"
+          font-size="45" font-family="Segoe UI, sans-serif" fill="#ffffff" font-weight="700">
+      GURURAJ H — AIML Engineer & Tech Innovator
+    </text>
+  </svg>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=guru-murtthy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hey There, I'm **GURURAJ H**
+### 🎮 AIML Engineer • 🤖 AI Enthusiast • 🏆 Tech Innovator  
+Transforming concepts into AI-driven, scalable solutions.
+
+---
+
+# 🚀 About Me
+I build intelligent systems, craft conversational AI, and work on the intersection of **machine learning, automation, and software engineering**.  
+My focus is on **AI pipelines, GenAI workflows, optimization, and real-world deployment**.
+
+✨ I love exploring unconventional ideas & solving problems with clean, efficient logic.
+
+---
+
+# ⚡ Skills & Technologies
+
+### 🧠 **AI / ML Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
+</p>
+
+### 💻 **Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,js" />
+</p>
+
+### 🌐 **Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,nestjs" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,vercel,netlify" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+# 🏅 Achievements
+### 🥇 **GitHub Badges**
